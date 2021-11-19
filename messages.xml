@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+    <message>
+        <sender>eman@yahoo.com</sender>
+        <receiver>analyn@gmail.com</receiver>
+        <date>2021-07-15 08:34:00 PM</date>
+        <content>Hello World!</content>
+    </message>
+
+    <message>
+        <sender>analyn@gmail.com</sender>
+        <receiver>eman@yahoo.com</receiver>
+        <date>2021-07-15 08:34:00 PM</date>
+        <content>Hello World!</content>
+    </message>
+<message><sender>eman@yahoo.com</sender><receiver>analyn@gmail.com</receiver><date>2021-07-15 02:35:07 AM</date><content>Send a message here...</content></message><message><sender>analyn@gmail.com</sender><receiver>eman@yahoo.com</receiver><date>2021-07-15 02:36:12 AM</date><content>di si analyn to haha eman to haha</content></message><message><sender>eman@yahoo.com</sender><receiver>analyn@gmail.com</receiver><date>2021-07-15 02:37:19 AM</date><content>di si eman to haha</content></message><message><sender>eman@yahoo.com</sender><receiver>try@gmail.com</receiver><date>2021-07-15 02:40:12 AM</date><content>hello try</content></message><message><sender>eman@yahoo.com</sender><receiver>try@gmail.com</receiver><date>2021-07-15 02:42:26 AM</date><content>this is eman btw haha!!!!!! bubO..!!</content></message></messages>

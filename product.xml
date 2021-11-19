@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+
+<product productID="000001">
+  <name>Starbucks Sticker Set</name>
+  <price>99.99</price>
+  <stock>7</stock>
+  <category>sticker</category>
+  <imagePath>images/product/k1.jpg</imagePath>
+</product>
+
+<product productID="000002">
+  <name>Sportsball Sticker Set</name>
+  <price>79.00</price>
+  <stock>8</stock>
+  <category>sticker</category>
+  <imagePath>images/product/k2.jpg</imagePath>
+</product>
+
+<product productID="000003">
+  <name>Corgi Sticker Set</name>
+  <price>109.00</price>
+  <stock>10</stock>
+  <category>sticker</category>
+  <imagePath>images/product/k3.jpg</imagePath>
+</product>
+
+<product productID="000004">
+  <name>Mushroom Vinyl Sticker</name>
+  <price>89.00</price>
+  <stock>9</stock>
+  <category>sticker</category>
+  <imagePath>images/product/k4.jpg</imagePath>
+</product>
+
+<product productID="000005">
+  <name>Milkshake Vinyl Sticker</name>
+  <price>67.00</price>
+  <stock>8</stock>
+  <category>sticker</category>
+  <imagePath>images/product/k5.jpg</imagePath>
+</product>
+
+<product productID="000006">
+  <name>Frog Vinyl Sticker</name>
+  <price>42.00</price>
+  <stock>10</stock>
+  <category>sticker</category>
+  <imagePath>images/product/k6.jpg</imagePath>
+</product>
+
+<product productID="000007">
+  <name>Plants Wall Painting</name>
+  <price>50.00</price>
+  <stock>10</stock>
+  <category>paint</category>
+  <imagePath>images/product/p1.jpg</imagePath>
+</product>
+
+<product productID="000008">
+  <name>Waves Wall Painting</name>
+  <price>50.00</price>
+  <stock>10</stock>
+  <category>paint</category>
+  <imagePath>images/product/p2.jpg</imagePath>
+</product>
+
+<product productID="000009">
+  <name>Leaves Wall Painting</name>
+  <price>50.00</price>
+  <stock>10</stock>
+  <category>paint</category>
+  <imagePath>images/product/p3.jpg</imagePath>
+</product>
+
+<product productID="000010">
+  <name>Twigs Wall Painting</name>
+  <price>109.00</price>
+  <stock>10</stock>
+  <category>paint</category>
+  <imagePath>images/product/p4.jpg</imagePath>
+</product>
+
+<product productID="000011">
+  <name>Blank Wall Painting</name>
+  <price>122.00</price>
+  <stock>10</stock>
+  <category>paint</category>
+  <imagePath>images/product/p5.jpg</imagePath>
+</product>
+
+<product productID="000012">
+  <name>Fall Wall Painting</name>
+  <price>104.00</price>
+  <stock>10</stock>
+  <category>paint</category>
+  <imagePath>images/product/p6.jpg</imagePath>
+</product>
+
+<product productID="000013">
+  <name>Aesthetic Journal Set</name>
+  <price>50.00</price>
+  <stock>10</stock>
+  <category>journal</category>
+  <imagePath>images/product/s1.jpg</imagePath>
+</product>
+
+<product productID="000014">
+  <name>Cozy Journal Set</name>
+  <price>50.00</price>
+  <stock>10</stock>
+  <category>journal</category>
+  <imagePath>images/product/s2.jpg</imagePath>
+</product>
+
+<product productID="000015">
+  <name>Garden  Journal Set</name>
+  <price>50.00</price>
+  <stock>10</stock>
+  <category>journal</category>
+  <imagePath>images/product/s3.jpg</imagePath>
+</product>
+
+<product productID="000016">
+  <name>Music Theme Journal Set</name>
+  <price>42.00</price>
+  <stock>10</stock>
+  <category>journal</category>
+  <imagePath>images/product/s4.jpg</imagePath>
+</product>
+
+<product productID="000017">
+  <name>Travel Theme Journal Set</name>
+  <price>62.00</price>
+  <stock>10</stock>
+  <category>journal</category>
+  <imagePath>images/product/s5.jpg</imagePath>
+</product>
+
+<product productID="000018">
+  <name>Memory Theme Journal Set</name>
+  <price>44.00</price>
+  <stock>10</stock>
+  <category>journal</category>
+  <imagePath>images/product/s6.jpg</imagePath>
+</product>
+
+<product productID="000019">
+  <name>Rust Washi Tape</name>
+  <price>50.00</price>
+  <stock>10</stock>
+  <category>tape</category>
+  <imagePath>images/product/w1.jpg</imagePath>
+</product>
+
+<product productID="000020">
+  <name>Mint  Washi Tape</name>
+  <price>50.00</price>
+  <stock>10</stock>
+  <category>tape</category>
+  <imagePath>images/product/w2.jpg</imagePath>
+</product>
+
+<product productID="000021">
+  <name>Tangerine  Washi Tape</name>
+  <price>50.00</price>
+  <stock>10</stock>
+  <category>tape</category>
+  <imagePath>images/product/w3.jpg</imagePath>
+</product>
+
+<product productID="000022">
+  <name>Nude Color Washi Tape</name>
+  <price>60.00</price>
+  <stock>10</stock>
+  <category>tape</category>
+  <imagePath>images/product/w4.jpg</imagePath>
+</product>
+
+<product productID="000023">
+  <name>Grid Washi Tape</name>
+  <price>60.00</price>
+  <stock>10</stock>
+  <category>tape</category>
+  <imagePath>images/product/w5.jpg</imagePath>
+</product>
+
+<product productID="000024">
+  <name>Earth Tone Washi Tape</name>
+  <price>60.00</price>
+  <stock>10</stock>
+  <category>tape</category>
+  <imagePath>images/product/w6.jpg</imagePath>
+</product>
+
+<product productID="000025">
+  <name>Aran Merino Yarn</name>
+  <price>25.00</price>
+  <stock>10</stock>
+  <category>yarn</category>
+  <imagePath>images/product/y1.jpg</imagePath>
+</product>
+
+<product productID="000026">
+  <name>Baby Alpaca Silk Yarn</name>
+  <price>30.00</price>
+  <stock>10</stock>
+  <category>yarn</category>
+  <imagePath>images/product/y2.jpg</imagePath>
+</product>
+
+<product productID="000027">
+  <name>Alpaca Yarn</name>
+  <price>22.00</price>
+  <stock>10</stock>
+  <category>yarn</category>
+  <imagePath>images/product/y3.jpg</imagePath>
+</product>
+
+<product productID="000028">
+  <name>Tookish Yarn</name>
+  <price>37.00</price>
+  <stock>10</stock>
+  <category>yarn</category>
+  <imagePath>images/product/y4.jpg</imagePath>
+</product>
+
+<product productID="000029">
+  <name>Cottage Yarn</name>
+  <price>28.00</price>
+  <stock>10</stock>
+  <category>yarn</category>
+  <imagePath>images/product/y5.jpg</imagePath>
+</product>
+
+<product productID="000030">
+  <name>Merrier Yarn</name>
+  <price>42.00</price>
+  <stock>10</stock>
+  <category>yarn</category>
+  <imagePath>images/product/y6.jpg</imagePath>
+</product>
+
+<product productID="000031">
+  <name>Pink Flower Digital Paper</name>
+  <price>5.50</price>
+  <stock>10</stock>
+  <category>paper</category>
+  <imagePath>images/product/dp1.jpg</imagePath>
+</product>
+
+<product productID="000032">
+  <name>Gray and Lilac Digital Paper</name>
+  <price>7.00</price>
+  <stock>10</stock>
+  <category>paper</category>
+  <imagePath>images/product/dp2.jpg</imagePath>
+</product>
+
+<product productID="000033">
+  <name>Mint Arrow Digital Paper</name>
+  <price>12.00</price>
+  <stock>10</stock>
+  <category>paper</category>
+  <imagePath>images/product/dp3.jpg</imagePath>
+</product>
+
+<product productID="000034">
+  <name>Summer Digital Paper</name>
+  <price>5.00</price>
+  <stock>10</stock>
+  <category>paper</category>
+  <imagePath>images/product/dp4.jpg</imagePath>
+</product>
+
+<product productID="000035">
+  <name>Cute Digital Paper</name>
+  <price>16.00</price>
+  <stock>10</stock>
+  <category>paper</category>
+  <imagePath>images/product/dp5.jpg</imagePath>
+</product>
+
+<product productID="000036">
+  <name>Nature Digital Paper</name>
+  <price>7.00</price>
+  <stock>10</stock>
+  <category>paper</category>
+  <imagePath>images/product/dp6.jpg</imagePath>
+</product>
+
+<product productID="000037">
+  <name>Heart Key Bottle Opener</name>
+  <price>56.00</price>
+  <stock>10</stock>
+  <category>bottle</category>
+  <imagePath>images/product/kb1.jpg</imagePath>
+</product>
+
+<product productID="000038">
+  <name>Gold Key Bottle Opener</name>
+  <price>52.00</price>
+  <stock>10</stock>
+  <category>bottle</category>
+  <imagePath>images/product/kb2.jpg</imagePath>
+</product>
+
+<product productID="000039">
+  <name>Crown Key Bottle Opener</name>
+  <price>63.00</price>
+  <stock>10</stock>
+  <category>bottle</category>
+  <imagePath>images/product/kb3.jpg</imagePath>
+</product>
+
+<product productID="000040">
+  <name>Diamond Card Bottle Opener</name>
+  <price>72.00</price>
+  <stock>10</stock>
+  <category>bottle</category>
+  <imagePath>images/product/kb4.jpg</imagePath>
+</product>
+
+<product productID="000041">
+  <name>Heart Card Bottle Opener</name>
+  <price>63.00</price>
+  <stock>10</stock>
+  <category>bottle</category>
+  <imagePath>images/product/kb5.jpg</imagePath>
+</product>
+
+<product productID="000042">
+  <name>Clover Card Bottle Opener</name>
+  <price>92.00</price>
+  <stock>10</stock>
+  <category>bottle</category>
+  <imagePath>images/product/kb6.jpg</imagePath>
+</product>
+
+<product productID="000043">
+  <name>Stag Rubber Stamp</name>
+  <price>27.50</price>
+  <stock>10</stock>
+  <category>stamp</category>
+  <imagePath>images/product/rs1.jpg</imagePath>
+</product>
+
+<product productID="000044">
+  <name>Turtle Rubber Stamp</name>
+  <price>29.00</price>
+  <stock>10</stock>
+  <category>stamp</category>
+  <imagePath>images/product/rs2.jpg</imagePath>
+</product>
+
+<product productID="000045">
+  <name>Fox Rubber Stamp</name>
+  <price>25.00</price>
+  <stock>10</stock>
+  <category>stamp</category>
+  <imagePath>images/product/rs3.jpg</imagePath>
+</product>
+
+<product productID="000046">
+  <name>Hourglass Rubber Stamp</name>
+  <price>31.00</price>
+  <stock>10</stock>
+  <category>stamp</category>
+  <imagePath>images/product/rs4.jpg</imagePath>
+</product>
+
+<product productID="000047">
+  <name>Passport Rubber Stamp</name>
+  <price>29.00</price>
+  <stock>10</stock>
+  <category>stamp</category>
+  <imagePath>images/product/rs4.jpg</imagePath>
+</product>
+
+<product productID="000048">
+  <name>Paperplane Rubber Stamp</name>
+  <price>19.00</price>
+  <stock>10</stock>
+  <category>stamp</category>
+  <imagePath>images/product/rs4.jpg</imagePath>
+</product>
+
+<product productID="000049">
+  <name>Miniature Coat</name>
+  <price>120.00</price>
+  <stock>10</stock>
+  <category>miniature</category>
+  <imagePath>images/product/m1.jpg</imagePath>
+</product>
+
+<product productID="000050">
+  <name>Miniature Dress</name>
+  <price>122.00</price>
+  <stock>10</stock>
+  <category>miniature</category>
+  <imagePath>images/product/m2.jpg</imagePath>
+</product>
+
+<product productID="000051">
+  <name>Miniature Overall</name>
+  <price>97.00</price>
+  <stock>10</stock>
+  <category>miniature</category>
+  <imagePath>images/product/m3.jpg</imagePath>
+</product>
+
+<product productID="000052">
+  <name>Rabbit Miniature</name>
+  <price>109.00</price>
+  <stock>10</stock>
+  <category>miniature</category>
+  <imagePath>images/product/m4.jpg</imagePath>
+</product>
+
+<product productID="000053">
+  <name>Monkey Miniature</name>
+  <price>112.00</price>
+  <stock>10</stock>
+  <category>miniature</category>
+  <imagePath>images/product/m5.jpg</imagePath>
+</product>
+
+<product productID="000054">
+  <name>Lion Miniature</name>
+  <price>129.00</price>
+  <stock>10</stock>
+  <category>miniature</category>
+  <imagePath>images/product/m6.jpg</imagePath>
+</product>
+
+<product productID="000055">
+  <name>Gather Wood Stained</name>
+  <price>65.00</price>
+  <stock>10</stock>
+  <category>wood</category>
+  <imagePath>images/product/hw1.jpg</imagePath>
+</product>
+
+<product productID="000056">
+  <name>Farm Wood Stained</name>
+  <price>75.00</price>
+  <stock>10</stock>
+  <category>wood</category>
+  <imagePath>images/product/hw2.jpg</imagePath>
+</product>
+
+<product productID="000057">
+  <name>Kitchen Wood Stained</name>
+  <price>85.00</price>
+  <stock>10</stock>
+  <category>wood</category>
+  <imagePath>images/product/hw3.jpg</imagePath>
+</product>
+
+<product productID="000058">
+  <name>Elk Wood Stained</name>
+  <price>95.00</price>
+  <stock>10</stock>
+  <category>wood</category>
+  <imagePath>images/product/hw4.jpg</imagePath>
+</product>
+
+<product productID="000059">
+  <name>Wolf Wood Stained</name>
+  <price>100.00</price>
+  <stock>10</stock>
+  <category>wood</category>
+  <imagePath>images/product/hw5.jpg</imagePath>
+</product>
+
+<product productID="000060">
+  <name>Horse Wood Stained</name>
+  <price>105.00</price>
+  <stock>10</stock>
+  <category>wood</category>
+  <imagePath>images/product/hw6.jpg</imagePath>
+</product>
+
+</products>

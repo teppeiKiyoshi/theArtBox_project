@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carts>
+    <cart>
+        <owner>eman@yahoo.com</owner>
+        <productName>Corgi Sticker Set</productName>
+        <productPrice>109.00</productPrice>
+        <productQty>1</productQty>
+        <productImage>images/product/k3.jpg</productImage>
+        <status>Paid</status>
+    </cart>
+    <cart>
+        <owner>eman@yahoo.com</owner>
+        <productName>Waves Wall Painting</productName>
+        <productPrice>50.00</productPrice>
+        <productQty>1</productQty>
+        <productImage>images/product/p2.jpg</productImage>
+        <status>Paid</status>
+    </cart>
+    <cart>
+        <owner>eman@yahoo.com</owner>
+        <productName>Leaves Wall Painting</productName>
+        <productPrice>50.00</productPrice>
+        <productQty>4</productQty>
+        <productImage>images/product/p3.jpg</productImage>
+        <status>Paid</status>
+    </cart>
+    <cart productID="6">
+        <owner>eman@yahoo.com</owner>
+        <productName>Leaves Wall Painting</productName>
+        <productPrice>50.00</productPrice>
+        <productQty>1</productQty>
+        <productImage>images/product/p3.jpg</productImage>
+        <status>Paid</status>
+    </cart>
+    
+    <cart productID="1">
+        <owner>eman@yahoo.com</owner>
+        <productName>Starbucks Sticker Set</productName>
+        <productPrice>99.99</productPrice>
+        <productQty>4</productQty>
+        <productImage>images/product/k1.jpg</productImage>
+        <status>Paid</status>
+    </cart>
+<cart productID="000010"><owner>eman@yahoo.com</owner><productName>Twigs Wall Painting</productName><productPrice>109.00</productPrice><productQty>2</productQty><productImage>images/product/p4.jpg</productImage><status>Paid</status></cart><cart productID="000001"><owner>eman@yahoo.com</owner><productName>Starbucks Sticker Set</productName><productPrice>99.99</productPrice><productQty>3</productQty><productImage>images/product/k1.jpg</productImage><status>Paid</status></cart><cart productID="000003"><owner>eman@yahoo.com</owner><productName>Corgi Sticker Set</productName><productPrice>109.00</productPrice><productQty>1</productQty><productImage>images/product/k3.jpg</productImage><status>Paid</status></cart><cart productID="000005"><owner>eman@yahoo.com</owner><productName>Milkshake Vinyl Sticker</productName><productPrice>67.00</productPrice><productQty>1</productQty><productImage>images/product/k5.jpg</productImage><status>Paid</status></cart><cart productID="000001"><owner>analyn@gmail.com</owner><productName>Starbucks Sticker Set</productName><productPrice>99.99</productPrice><productQty>2</productQty><productImage>images/product/k1.jpg</productImage><status>Unpaid</status></cart><cart productID="000004"><owner>analyn@gmail.com</owner><productName>Mushroom Vinyl Sticker</productName><productPrice>89.00</productPrice><productQty>1</productQty><productImage>images/product/k4.jpg</productImage><status>Unpaid</status></cart><cart productID="000003"><owner>analyn@gmail.com</owner><productName>Corgi Sticker Set</productName><productPrice>109.00</productPrice><productQty>1</productQty><productImage>images/product/k3.jpg</productImage><status>Unpaid</status></cart><cart productID="000010"><owner>eman@yahoo.com</owner><productName>Twigs Wall Painting</productName><productPrice>109.00</productPrice><productQty>1</productQty><productImage>images/product/p4.jpg</productImage><status>Paid</status></cart><cart productID="000002"><owner>eman@yahoo.com</owner><productName>Sportsball Sticker Set</productName><productPrice>79.00</productPrice><productQty>1</productQty><productImage>images/product/k2.jpg</productImage><status>Paid</status></cart><cart productID="000001"><owner>eman@yahoo.com</owner><productName>Starbucks Sticker Set</productName><productPrice>99.99</productPrice><productQty>2</productQty><productImage>images/product/k1.jpg</productImage><status>Unpaid</status></cart><cart productID="000002"><owner>eman@yahoo.com</owner><productName>Sportsball Sticker Set</productName><productPrice>79.00</productPrice><productQty>2</productQty><productImage>images/product/k2.jpg</productImage><status>Unpaid</status></cart><cart productID="000004"><owner>eman@yahoo.com</owner><productName>Mushroom Vinyl Sticker</productName><productPrice>89.00</productPrice><productQty>1</productQty><productImage>images/product/k4.jpg</productImage><status>Unpaid</status></cart><cart productID="000005"><owner>eman@yahoo.com</owner><productName>Milkshake Vinyl Sticker</productName><productPrice>67.00</productPrice><productQty>2</productQty><productImage>images/product/k5.jpg</productImage><status>Unpaid</status></cart></carts>
